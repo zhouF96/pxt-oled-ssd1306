@@ -9,7 +9,8 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh/oled-strings.json"
+        "_locales/zh/oled-strings.json",
+        "_locales/zh/oled-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
